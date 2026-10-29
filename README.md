@@ -1,5 +1,3 @@
-# frog
-青蛙ssh登录
 # 🐸 Frog VPS KeepAlive & HY2 Proxy
 
 一个基于 **GitHub Actions** 的青蛙 VPS 自动化保活工具。支持通过 **Hysteria2 (HY2)** 或标准 **Socks5/HTTP 代理** 安全连接，并内置 **Telegram 实时通知**，让你随时掌握 VPS 的运行状态与保活结果。
